@@ -1,0 +1,3 @@
+Найти ошибку запросе!
+ALTER TABLE City DROP,
+COLUMN add cityNAme
